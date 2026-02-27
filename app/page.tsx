@@ -2,6 +2,8 @@
 "use client";
 import React, { useMemo, useState, useEffect, useRef } from "react";
 
+// My PUSSY SO FAT THAT SHIT SOUND LKIKE MAC ANCHE CHEEEEESE
+
 type DayRow = {
   date: string;
   paidOrders: number;
